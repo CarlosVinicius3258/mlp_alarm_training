@@ -1,0 +1,9 @@
+Relatório de Avaliação
+
+Valores de Entrada	Predição	Alarme Acionado
+-----------------------------------------------------------
+1	1, 1, 1, 0, 1		Sem Alarme		Não
+2	0, 1, 1, 1, 1		Alarme Acionado		Sim
+3	1, 1, 0, 0, 0		Alarme Acionado		Não
+4	1, 0, 0, 0, 1		Sem Alarme		Não
+5	0, 1, 0, 0, 0		Alarme Acionado		Sim
